@@ -1,11 +1,13 @@
-#### kitchens
-###小厨房
+####  kitchens
+### 小厨房
 
 
-#接口调用说明api
+# 接口调用说明api
+
 ```
 var NewApiKitcUrl = '101.132.103.204:8080/kit/';
 ```
+
 ```
 module.exports = {
 
