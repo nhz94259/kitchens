@@ -1,10 +1,12 @@
-# kitchens
-小厨房
+#### kitchens
+###小厨房
 
 
-接口调用说明api
+#接口调用说明api
+```
 var NewApiKitcUrl = '101.132.103.204:8080/kit/';
-
+```
+```
 module.exports = {
 
 	GoodsList: NewApiKitcUrl + '  buyer/product/list',//所有在售的商品其中按商品类划分
@@ -36,3 +38,4 @@ module.exports = {
 	OrderDetail:NewApiKitcUrl + 'seller/category/detail',//订单详情
 	OrderFinished:NewApiKitcUrl + 'seller/category/finish',//完结订单
 };
+```
