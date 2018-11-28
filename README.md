@@ -52,4 +52,4 @@ var NewApiKitcUrl = 'localhost:8080/kit/';
 	OrderFinished:NewApiKitcUrl + 'seller/category/finish',//完结订单
  
 ```
-### 具体接口请求与相应 参 /doc/API.md
+### 具体接口请求与响应 参 /doc/API.md
